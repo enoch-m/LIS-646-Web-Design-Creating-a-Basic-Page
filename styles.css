@@ -1,0 +1,10 @@
+header, footer {
+    background: lightblue;
+}
+main {
+    background: lightyellow;
+}
+.profile-img {
+    width: 100px;
+    border-radius: 50%;
+}
